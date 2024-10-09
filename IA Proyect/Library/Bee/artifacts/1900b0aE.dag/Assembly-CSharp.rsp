@@ -327,6 +327,8 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.33f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/PathCreator.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/PathCreatorEditor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.ref.dll"
@@ -356,6 +358,14 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.33f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.33f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Follower.cs"
+"Assets/PathCreator/Examples/Scripts/GeneratePathExample.cs"
+"Assets/PathCreator/Examples/Scripts/PathFollower.cs"
+"Assets/PathCreator/Examples/Scripts/PathPlacer.cs"
+"Assets/PathCreator/Examples/Scripts/PathSceneTool.cs"
+"Assets/PathCreator/Examples/Scripts/PathSpawner.cs"
+"Assets/PathCreator/Examples/Scripts/RoadMeshCreator.cs"
+"Assets/Patrolling.cs"
 "Assets/WanderingScript.cs"
 -langversion:9.0
 /deterministic
